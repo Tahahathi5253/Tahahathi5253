@@ -1,4 +1,4 @@
-<img width="1440" height="3016" alt="image" src="https://github.com/user-attachments/assets/15688861-7b50-43c2-b95e-2a7363aad816" /># Hi there, I'm Taha J Hathi! 👋
+# Hi there, I'm Taha J Hathi! 👋
 
 Welcome to my GitHub profile! I'm a **Full-Stack Developer** with a passion for building scalable, user-friendly applications that solve real-world problems. 
 From crafting seamless front-end interfaces to designing robust back-end systems, I strive to create impactful solutions using modern technologies.
