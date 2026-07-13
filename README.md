@@ -1,19 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Taha%20👋&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=26&duration=2800&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%2B+Web+Integration+Builder;Turning+Ideas+Into+Real+Products;Based+in+Rajkot%2C+India" alt="Typing SVG"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/taha-hathi-086830279"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:hathitaha024@gmail.com"><img src="https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/th__tahu"><img src="https://img.shields.io/badge/Instagram-6C63FF?style=flat-square&logo=instagram&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
 
 <br/>
