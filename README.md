@@ -1,71 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Taha%20👋&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%"/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=26&duration=2800&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%2B+Web+Integration+Builder;Turning+Ideas+Into+Real+Products;Based+in+Rajkot%2C+India" alt="Typing SVG"/>
+# Hi, I'm Taha Hathi 👋
+
+### Full-Stack Developer building at the intersection of Web & AI
 
 <br/>
 
-<a href="https://www.linkedin.com/in/taha-hathi-086830279"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:hathitaha024@gmail.com"><img src="https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/th__tahu"><img src="https://img.shields.io/badge/Instagram-6C63FF?style=flat-square&logo=instagram&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=22&duration=2800&pause=1000&color=AAAAAA&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+%2B+Web+Integration+Builder;Turning+Ideas+Into+Real+Products;Based+in+Rajkot%2C+India" alt="Typing SVG"/>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-hathi-086830279)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:hathitaha024@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/th__tahu)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
+---
 
 <br/>
 
-### ⚡ About Me
+### About Me
 
 I'm a **Full-Stack Developer** who enjoys turning complex problems into clean, scalable products — from pixel-perfect front-ends to reliable, well-structured back-end systems.
 
 Right now, I'm focused on the intersection of **web development and AI** — building applications that don't just look good, but actually *think*.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-**🔭 Currently Building**
-AI-integrated, production-ready web apps
-
-**🌱 Currently Learning**
-Real-time data visualization & analytics
-
-</td>
-<td width="50%" valign="top">
-
-**🤝 Open To**
-Ambitious web + AI collaborations
-
-**💭 Philosophy**
-Clean code. Thoughtful UX. Ship things that matter.
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
+| | |
+|---|---|
+| 🔭 **Currently Building** | AI-integrated, production-ready web apps |
+| 🌱 **Currently Learning** | Real-time data visualization & analytics |
+| 🤝 **Open To** | Ambitious web + AI collaborations |
+| 💭 **Philosophy** | Clean code. Thoughtful UX. Ship things that matter. |
 
 <br/>
 
-### 🧰 Tech Stack
+---
+
+<br/>
+
+### Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker&perline=6&theme=dark" />
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
+---
 
 <br/>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
@@ -101,20 +95,18 @@ Real-time engagement tracking module built with Langflow and DataStax for effici
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
+---
 
 <br/>
 
 <div align="center">
 
-### 💬 Let's Build Something
+### Let's Build Something
 
 I'm always open to collaborating on projects that push the boundaries of web development and AI. Got an idea worth building?
 
 📧 **[hathitaha024@gmail.com](mailto:hathitaha024@gmail.com)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/taha-hathi-086830279)** &nbsp;·&nbsp; 📸 **[Instagram](https://www.instagram.com/th__tahu)**
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
