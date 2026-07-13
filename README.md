@@ -1,70 +1,51 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=TAHA%20J%20HATHI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Building%20AI-Powered%20Web%20Experiences&descAlignY=55&descSize=17&descColor=d8e8f5" />
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=200&section=header&text=Taha%20J%20Hathi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI-Driven%20Web%20Solutions&descAlignY=55&descSize=18" />
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications;React.js+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Merging+AI+with+real-world+web+solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=4FD1C5&center=true&vCenter=true&width=600&lines=console.log(%22Hello%2C+World!%22)%3B;Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;AI+%2B+Web+%3D+%E2%9D%A4%EF%B8%8F" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/taha-hathi-086830279"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hathitaha024@gmail.com"><img src="https://img.shields.io/badge/Email-4FD1C5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/th__tahu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/taha-hathi-086830279">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:hathitaha024@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/th__tahu">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Tahahathi5253&style=flat-square&color=8E2DE2&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Tahahathi5253&style=for-the-badge&color=203A43&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br/>
 
-## 👤 About Me
-
-```javascript
-const taha = {
-  role: "Full-Stack Developer",
-  location: "India",
-  stack: ["JavaScript", "React.js", "Next.js", "Node.js", "Express.js"],
-  databases: ["MongoDB", "MySQL"],
-  currentFocus: "Advanced analytics & real-time data visualization",
-  interests: ["AI-driven applications", "real-time communication tools", "innovative web solutions"],
-  motto: "Merging creativity with technology to build things that matter."
-};
-```
-
-- 🔭 Currently building AI-integrated, production-ready web applications
-- 🌱 Leveling up in advanced analytics and real-time data visualization
-- 🤝 Open to collaborating on ambitious web + AI projects
-- 📫 Reach me at **hathitaha024@gmail.com**
-
-<br/>
-
-## 🧰 Tech Stack
-
-<table width="100%">
+<table align="center" width="100%">
 <tr>
-<td valign="top" width="33%">
+<td width="60%" valign="top">
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+### 👋 About Me
+
+I'm a **Full-Stack Developer** who enjoys turning complex problems into clean, scalable products — from pixel-perfect front-ends to reliable, well-structured back-end systems.
+
+Lately, I've been focused on the intersection of **web development and AI**: building applications that don't just look good, but actually think.
+
+- 🔭 Building AI-integrated, production-ready web apps
+- 🌱 Deepening my skills in real-time analytics & data visualization
+- 🤝 Open to collaborating on ambitious web + AI projects
+- ⚡ Believer in clean code, thoughtful UX, and shipping things that matter
 
 </td>
-<td valign="top" width="33%">
+<td width="40%" valign="top">
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+### 📌 Quick Facts
 
-</td>
-<td valign="top" width="33%">
-
-**Databases & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker" />
+| | |
+|---|---|
+| 🎯 **Role** | Full-Stack Developer |
+| 💻 **Focus** | Web + AI Integration |
+| 🌱 **Learning** | Real-time Data Visualization |
+| 📫 **Reach me** | hathitaha024@gmail.com |
 
 </td>
 </tr>
@@ -72,43 +53,44 @@ const taha = {
 
 <br/>
 
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker&theme=dark" />
+
+</div>
+
+<br/>
+
 ## 🚀 Featured Projects
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 🍳 Recipe Generator
-AI-powered recipe generator that turns uploaded food photos into complete recipes, built on the Bolt.new API with a clean image-upload and recipe-display UI.
-
-`React` `AI Integration` `Image Processing`
-
+<td width="50%">
+<h3>🍳 Recipe Generator</h3>
+<p>An AI-powered app that turns uploaded food photos into complete recipes, built on the Bolt.new API with a clean, intuitive upload-and-display experience.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/AI_Integration-4FD1C5?style=flat-square"/>
 </td>
-<td width="50%" valign="top">
-
-### 📁 File Sharing Application
-Full-featured file-sharing platform with multi-format uploads, advanced search, and file restoration — built for reliability at scale.
-
-`Full-Stack` `Node.js` `MongoDB`
-
+<td width="50%">
+<h3>📁 File Sharing Application</h3>
+<p>A full-featured file-sharing platform with multi-format uploads, advanced search, and file restoration — engineered for reliability at scale.</p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 📊 Social Analytics Module
-Real-time analytics module tracking social media engagement, powered by Langflow and DataStax for data processing and visualization.
-
-`Langflow` `DataStax` `Data Visualization`
-
+<td width="50%">
+<h3>📊 Social Analytics Module</h3>
+<p>A real-time analytics module for tracking social media engagement, built with Langflow and DataStax for efficient data processing and visualization.</p>
+<img src="https://img.shields.io/badge/Langflow-8E2DE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/DataStax-3A36DB?style=flat-square"/>
 </td>
-<td width="50%" valign="top">
-
-### 💡 Have a project in mind?
-I'm always open to collaborating on projects that push the boundaries of web development and AI. Let's connect and build something great.
-
-[**Get in touch →**](mailto:hathitaha024@gmail.com)
-
+<td width="50%">
+<h3>💡 Let's Build Together</h3>
+<p>I'm always open to collaborating on projects that push the boundaries of web development and AI. Got an idea worth building?</p>
+<a href="mailto:hathitaha024@gmail.com"><img src="https://img.shields.io/badge/Get_in_Touch-4FD1C5?style=flat-square&logo=gmail&logoColor=white"/></a>
 </td>
 </tr>
 </table>
@@ -119,31 +101,29 @@ I'm always open to collaborating on projects that push the boundaries of web dev
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tahahathi5253&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahahathi5253&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tahahathi5253&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahahathi5253&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=Tahahathi5253&theme=radical&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Tahahathi5253&theme=tokyonight&hide_border=true&background=0D1117" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahahathi5253&theme=redical&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahahathi5253&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
 
 </div>
 
-<br/>
-
-## 🏆 Trophies
+## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tahahathi5253&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tahahathi5253&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
 <br/>
 
 <div align="center">
 
-### Let's build something amazing together 🚀
+### 💬 Let's Connect
 
-📧 hathitaha024@gmail.com &nbsp;•&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/taha-hathi-086830279) &nbsp;•&nbsp; 📸 [Instagram](https://www.instagram.com/th__tahu)
+📧 **hathitaha024@gmail.com** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/taha-hathi-086830279)** &nbsp;|&nbsp; 📸 **[Instagram](https://www.instagram.com/th__tahu)**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
 
 </div>
