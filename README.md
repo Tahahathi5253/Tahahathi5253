@@ -108,4 +108,37 @@ A real-time analytics module for tracking social media engagement, built with La
 
 <img src="https://komarev.com/ghpvc/?username=Tahahathi5253&style=flat-square&color=blue" alt="Profile views" />
 
-</div>v
+</div>
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"    # runs every 12 hours
+  workflow_dispatch: {}        # lets you trigger it manually anytime
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Tahahathi5253
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Push output to "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
