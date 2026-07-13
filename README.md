@@ -91,21 +91,6 @@ A real-time analytics module for tracking social media engagement, built with La
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tahahathi5253&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahahathi5253&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=Tahahathi5253&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahahathi5253&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
-<div align="center">
-
 ### 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=Tahahathi5253&theme=tokyonight&no-frame=true&row=1&column=6" />
