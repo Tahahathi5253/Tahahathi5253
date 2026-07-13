@@ -1,96 +1,30 @@
-### ⚡ About Me
-
-I'm a **Full-Stack Developer** who enjoys turning complex problems into clean, scalable products — from pixel-perfect front-ends to reliable, well-structured back-end systems.
-
-Right now, I'm focused on the intersection of **web development and AI** — building applications that don't just look good, but actually *think*.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔭 Currently Building**
-AI-integrated, production-ready web apps
-
-**🌱 Currently Learning**
-Real-time data visualization & analytics
-
-</td>
-<td width="50%" valign="top">
-
-**🤝 Open To**
-Ambitious web + AI collaborations
-
-**💭 Philosophy**
-Clean code. Thoughtful UX. Ship things that matter.
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
-
-<br/>
-
-### 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker&perline=6" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🍳 Recipe Generator**
-
-AI-powered app that turns food photos into complete recipes, built on the Bolt.new API with a clean upload-and-display flow.
-
-`React` `AI`
-
-</td>
-<td width="33%" valign="top">
-
-**📁 File Sharing App**
-
-Full-featured file-sharing platform with multi-format uploads, advanced search, and file restoration engineered for reliability.
-
-`Node.js` `MongoDB`
-
-</td>
-<td width="33%" valign="top">
-
-**📊 Social Analytics**
-
-Real-time engagement tracking module built with Langflow and DataStax for efficient data processing.
-
-`Langflow` `DataStax`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px">
-
-<br/>
-
-<div align="center">
-
-### 💬 Let's Build Something
-
-I'm always open to collaborating on projects that push the boundaries of web development and AI. Got an idea worth building?
-
-📧 **[hathitaha024@gmail.com](mailto:hathitaha024@gmail.com)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/taha-hathi-086830279)** &nbsp;·&nbsp; 📸 **[Instagram](https://www.instagram.com/th__tahu)**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
+# Hi there, I'm Taha J Hathi! 👋
+Welcome to my GitHub profile! I'm a **Full-Stack Developer** with a passion for building scalable, user-friendly applications that solve real-world problems. 
+From crafting seamless front-end interfaces to designing robust back-end systems, I strive to create impactful solutions using modern technologies.
+---
+## 👨‍💻 About Me:
+- 💼 **Profession**: Full-Stack Developer  
+- 🌟 **Skills**: JavaScript, React.js, Next.js, Node.js, Express.js, Tailwind CSS, MongoDB, MySQL.
+- 🔥 **Interests**: AI-driven applications, real-time communication tools, and innovative web solutions.  
+- 🚀 **Projects**:  
+  - Recipe Generator using image uploads and Bol.new API.  
+  - File Sharing Application with advanced features like search, restore, and multi-format support.  
+  - Analytics module for social media engagement using Langflow and DataStax.  
+---
+## 💻 Tech Stack:
+- **Frontend**: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS  
+- **Backend**: Node.js, Express.js  
+- **Databases**: MongoDB, MySQL  
+- **Tools & Platforms**: Git, GitHub, Docker
+---
+## 📈 My Journey:
+- 🌱 Currently enhancing my skills in advanced analytics and real-time data visualization.  
+- 💡 Always eager to learn and implement cutting-edge technologies.  
+- 🎯 Looking to collaborate on projects that push the boundaries of web development and AI integration.  
+---
+## 📫 Connect with Me:
+- 📧 Email: hathitaha024@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/taha-hathi-086830279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   
+- 📸 [Instagram](https://www.instagram.com/th__tahu?igsh=cnN3cmRqbG9zZmY2)   
+---
+⚡ **Fun Fact**: I believe in merging creativity with technology to create solutions that make a difference. Let's build something amazing together! 🚀
